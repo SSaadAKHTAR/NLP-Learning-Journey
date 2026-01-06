@@ -1,0 +1,5 @@
+Artificial intelligence is transforming the modern world by enabling machines to perform tasks that normally require human intelligence. These tasks include decision making, problem solving, speech recognition, and image analysis. AI systems are widely used in smartphones, search engines, and recommendation systems.
+
+Machine learning is a core part of artificial intelligence that allows computers to learn patterns from data without being explicitly programmed. Deep learning, a subset of machine learning, uses neural networks to process large amounts of data and produce accurate results.
+
+Although artificial intelligence offers many benefits, it also raises concerns related to job automation, data privacy, and ethical decision making. Responsible development and regulation of AI technologies are essential for a balanced future.
